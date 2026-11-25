@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="CA P Deepak Siddarth. Chartered Accountant, building Python tools for audit, GST and Tally data">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b2a6f"/><stop offset=".5" stop-color="#5b2bb5"/><stop offset="1" stop-color="#d6336c"/></linearGradient>
+<linearGradient id="b" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#fde047"/></linearGradient></defs>
+<rect width="1200" height="340" rx="22" fill="url(#g)"/>
+<g stroke="#fff" stroke-opacity=".10"><path d="M0 68H1200M0 136H1200M0 204H1200M0 272H1200"/></g>
+<g fill="url(#b)"><rect x="830" y="206" width="42" height="70" rx="6"/><rect x="890" y="172" width="42" height="104" rx="6"/><rect x="950" y="190" width="42" height="86" rx="6"/><rect x="1010" y="130" width="42" height="146" rx="6"/><rect x="1070" y="86" width="42" height="190" rx="6"/></g>
+<path d="M851 176L911 142L971 158L1031 100L1091 58" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#fff"><circle cx="851" cy="176" r="8"/><circle cx="911" cy="142" r="8"/><circle cx="971" cy="158" r="8"/><circle cx="1031" cy="100" r="8"/><circle cx="1091" cy="58" r="8"/></g>
+<g font-family="Segoe UI,Helvetica,Arial,sans-serif" fill="#fff"><text x="64" y="132" font-size="60" font-weight="700">CA P Deepak Siddarth</text><text x="66" y="186" font-size="32" fill="#fde047" font-weight="600">Chartered Accountant</text><text x="66" y="236" font-size="28">Python tools for audit, GST and Tally data</text></g>
+</svg>
