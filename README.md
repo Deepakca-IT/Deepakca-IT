@@ -1,16 +1,15 @@
-## Hi there 👋
+# CA P Deepak Siddarth
 
-<!--
-**Deepakca-IT/Deepakca-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chartered Accountant building small Python tools for audit, GST and tax work with Tally data.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does |
+|---|---|
+| [GSTR-2B Rate Wise Report](https://github.com/Deepakca-IT/2B_RateWise_Report) | Adds rate-wise details from GSTR-2A to GSTR-2B B2B invoices |
+| [Creditors Ageing with 43B(h) Check](https://github.com/Deepakca-IT/Creditors-Ageing-with-43b_h-Check) | FIFO creditor ageing and a preliminary Section 43B(h) check |
+| [AgingAnalysis](https://github.com/Deepakca-IT/AgingAnalysis) | Desktop scripts for debtor and creditor ageing |
+
+**Tools:** Python, pandas, openpyxl, Streamlit
+
+Please do not post client or taxpayer data in issues or pull requests.
